@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "mergen"
+  name             : "Alperen Bitirgen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "An AI Enthusiast Computer Engineering Student"
   location         : "Ankara, Turkey"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
